@@ -40,7 +40,7 @@ project-root/
    git clone https://github.com/Gzlng/13.11.25
 
    ## 🚀 Запуск проекта
-
+   Запустьть messemger.py
 
 2. cd 13.11.25
            # Windows
